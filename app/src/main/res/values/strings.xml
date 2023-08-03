@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TJ VB</string>
+    <string name="write_message_here">Write message here</string>
+    <string name="welcome_to_tifor_ai_bot">Welcome to Tifor AI Bot</string>
+    <string name="question_here">Question Here ?</string>
+    <string name="tifor_ai_bot">Tifor AI Bot</string>
+</resources>
